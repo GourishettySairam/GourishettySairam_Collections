@@ -1,0 +1,278 @@
+2020-03-04 08:58:42,168 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-04 09:00:26,344 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\file\EPAM_TASK_4\CollectionFramework\pom.xml
+2020-03-04 09:00:34,768 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:CollectionFramework:0.0.1-SNAPSHOT @ F:\file\EPAM_TASK_4\CollectionFramework\pom.xml.
+2020-03-04 09:00:36,350 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollectionFramework/src/main/java
+2020-03-04 09:00:36,381 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollectionFramework/src/test/java
+2020-03-04 09:00:38,419 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2020-03-04 09:00:39,872 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:00:39,873 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:00:39,877 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:00:39,877 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:01:27,986 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:01:27,987 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:01:27,990 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:01:27,991 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:01:44,177 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-04 09:01:45,333 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:CollectionFramework:0.0.1-SNAPSHOT @ F:\file\EPAM_TASK_4\CollectionFramework\pom.xml.
+2020-03-04 09:01:45,821 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollectionFramework/src/main/java
+2020-03-04 09:01:45,822 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollectionFramework/src/test/java
+2020-03-04 09:01:45,945 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-03-04 09:01:46,157 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:01:46,157 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:01:46,162 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:01:46,163 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:02:01,685 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:01,685 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:02:01,688 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:01,688 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:02:45,200 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:45,200 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:02:45,203 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:45,203 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:02:46,303 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:46,303 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:02:46,305 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:02:46,306 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:10:36,150 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:CollectionFramework:0.0.1-SNAPSHOT @ F:\file\EPAM_TASK_4\CollectionFramework\pom.xml.
+2020-03-04 09:10:37,051 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:10:37,052 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:10:37,056 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:10:37,056 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:10:38,514 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:10:38,514 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\main\resources
+2020-03-04 09:10:38,517 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:10:38,518 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:14:38,653 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:14:38,667 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 09:14:38,670 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:14:38,670 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:15:54,755 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:15:54,756 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:15:54,821 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:15:54,821 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:16:26,471 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:Logging:0.0.1-SNAPSHOT @ F:\file\EPAM_TASK_3\Logging\pom.xml.
+2020-03-04 09:16:33,279 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:16:33,282 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:16:33,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:16:33,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_3\Logging\src\test\resources
+2020-03-04 09:17:12,267 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:17:12,269 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:17:12,275 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:17:12,276 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:17:58,649 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:17:58,653 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:17:58,656 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:17:58,656 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:18:53,921 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:18:53,922 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:18:53,926 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:18:53,927 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:19:41,204 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:19:41,204 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:19:41,208 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:19:41,208 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:19:49,561 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:19:49,561 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:19:49,564 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:19:49,564 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:20:29,202 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:20:29,203 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:20:29,206 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:20:29,206 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:20:54,454 [Worker-20: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:20:54,457 [Worker-20: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 09:21:20,782 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:21:20,785 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:21:20,791 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:21:20,791 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:23:43,539 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:23:43,541 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:23:43,546 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:23:43,546 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:23:57,027 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:23:57,028 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:23:57,031 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:23:57,031 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:24:05,881 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:24:05,882 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:24:05,885 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:24:05,885 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:24:17,667 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:24:17,668 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:24:17,674 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:24:17,674 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:25:10,930 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:25:10,931 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:25:10,934 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:25:10,934 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:25:46,621 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:25:46,622 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:25:46,625 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:25:46,625 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:27:25,198 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:27:25,199 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:27:25,203 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:27:25,204 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:28:10,357 [Worker-12: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:28:10,357 [Worker-12: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 09:28:18,774 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:28:18,774 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 09:28:18,776 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:28:18,776 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:30:24,671 [Worker-18: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:30:24,672 [Worker-18: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 09:31:23,526 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:31:23,528 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:31:23,533 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:31:23,534 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:31:31,421 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:31:31,422 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 09:31:31,426 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:31:31,427 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:33:29,537 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:33:29,538 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:33:29,542 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:33:29,543 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:33:33,004 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:33:33,005 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:33:33,007 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:33:33,008 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:41:55,544 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:41:55,545 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:41:55,546 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:41:55,547 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:42:46,144 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:42:46,145 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:42:46,148 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:42:46,149 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:44:16,660 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:44:16,661 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:44:16,662 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:44:16,663 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:44:53,603 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:44:53,603 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:44:53,606 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:44:53,606 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:46:45,715 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:46:45,716 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:46:45,718 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:46:45,718 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:47:09,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:47:09,551 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:47:09,553 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:47:09,553 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:47:49,318 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:47:49,319 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:47:49,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:47:49,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:48:39,410 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:48:39,411 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:48:39,414 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:48:39,414 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:48:45,909 [Worker-21: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:48:45,909 [Worker-21: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-04 09:48:49,719 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:48:49,720 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:48:49,725 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:48:49,726 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:49:04,919 [Worker-13: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:49:04,920 [Worker-13: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-04 09:49:08,485 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:49:08,487 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:49:08,496 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:49:08,497 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:49:15,991 [Worker-21: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:49:15,992 [Worker-21: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 09:49:24,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:49:24,636 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:49:24,639 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:49:24,640 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:50:02,800 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:50:02,801 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:50:02,804 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:50:02,804 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:51:04,570 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:51:04,571 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:51:04,573 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:51:04,574 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:51:44,114 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:51:44,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:51:44,117 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:51:44,118 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:52:09,920 [Worker-3: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 09:52:09,921 [Worker-3: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 09:52:16,031 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:52:16,031 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 09:52:16,033 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:52:16,033 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:53:20,434 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:53:20,435 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:53:20,437 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:53:20,438 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:53:33,485 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:53:33,486 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:53:33,489 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:53:33,489 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:54:17,124 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:54:17,126 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:54:17,129 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:54:17,129 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:57:12,711 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:57:12,712 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:57:12,714 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:57:12,714 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:57:21,470 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:57:21,472 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:57:21,475 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:57:21,475 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:59:22,934 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:22,935 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:59:22,936 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:22,937 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:59:31,719 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:31,720 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:59:31,725 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:31,726 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:59:38,192 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:38,193 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:59:38,196 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:38,197 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 09:59:41,144 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:41,146 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 09:59:41,149 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 09:59:41,149 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:00:03,330 [Worker-22: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 10:00:03,331 [Worker-22: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-04 10:00:06,915 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:00:06,917 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 10:00:06,923 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:00:06,924 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:00:13,140 [Worker-3: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 10:00:13,140 [Worker-3: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 10:00:23,086 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:00:23,087 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 10:00:23,090 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:00:23,090 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:02:14,216 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:CollectionFramework:0.0.1-SNAPSHOT @ F:\file\EPAM_TASK_4\CollectionFramework\pom.xml.
+2020-03-04 10:02:14,515 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:14,516 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 10:02:14,519 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:14,519 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:02:27,492 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:27,492 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-04 10:02:27,494 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:27,495 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:02:39,767 [Worker-12: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 10:02:39,767 [Worker-12: Launching Executing clean in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-04 10:02:43,051 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:43,053 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 10:02:43,061 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:43,061 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:02:50,380 [Worker-13: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 10:02:50,380 [Worker-13: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-04 10:02:57,019 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:57,020 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-04 10:02:57,024 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-04 10:02:57,024 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\file\EPAM_TASK_4\CollectionFramework\src\test\resources
+2020-03-04 10:04:34,489 [Worker-22: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\file\EPAM_TASK_4\CollectionFramework
+2020-03-04 10:04:34,490 [Worker-22: Launching Executing install in F__file_EPAM_TASK_4_CollectionFramework] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install

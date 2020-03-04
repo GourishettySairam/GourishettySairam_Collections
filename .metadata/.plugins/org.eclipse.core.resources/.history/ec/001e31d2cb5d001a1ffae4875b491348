@@ -1,0 +1,33 @@
+package com.epam.CollectionFramework;
+
+import org.apache.logging.log4j.LogManager;
+
+public class MyList {
+
+	public static void main(String[] args) 
+	{
+		
+		CustomList<Integer> list = new CustomList<>();
+		
+		 final Logger LOGGER = LogManager.getLogger(MyList.class);
+		 
+        //Add elements
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        LOGGER.info(list);
+         
+        //Remove elements from index
+        list.remove(2);
+        LOGGER.info(list);
+         
+        //Get element with index
+        LOGGER.info( list.get(0) );
+        LOGGER.info( list.get(1) );
+ 
+        //List Size
+        LOGGER.info(list.size());
+
+	}
+
+}

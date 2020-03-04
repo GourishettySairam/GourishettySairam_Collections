@@ -1,0 +1,54 @@
+package com.epam.CollectionFramework;
+
+import org.apache.logging.log4j.*;
+import java.util.Scanner;
+
+public class MyList {
+
+	public static void main(String[] args) 
+	{
+		
+		CustomList<String> list = new CustomList<String>();
+		Scanner sc = new Scanner(System.in); 
+		final Logger LOGGER = LogManager.getLogger(MyList.class);
+		 
+        list.add("a");
+        list.add("b");
+        list.add("c");
+        list.add("d");
+        list.add("e");
+        list.add("f");
+        list.add("g");
+        
+        String getFromList = list.get(2);
+        LOGGER.debug(getFromList);
+        
+        try
+        {
+        	LOGGER.info("enter index to access element at that index");
+        	int index = sc.nextInt();
+        	getFromList = list.get(index);
+        	
+        	LOGGER.info("Enter index of element to remove");
+        	String removeFromList = list.remove(3);
+        	LOGGER.debug(removeFromList);
+        	
+        }
+        catch(IndexOutOfBoundsException exception)
+        {
+        	LOGGER.debug(exception);
+        }
+        
+        LOGGER.info(list);
+         
+        list.remove(2);
+        LOGGER.info(list);
+         
+        LOGGER.error( list.get(0) );
+        LOGGER.debug( list.get(1) );
+ 
+        LOGGER.info(list.size());
+        sc.close();
+	}
+
+}

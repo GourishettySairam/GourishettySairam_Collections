@@ -1,0 +1,18 @@
+2020-03-04 10:00::27 DEBUG MyList:25 - the list is [a,b,c,d,e,f,g]
+2020-03-04 10:00::27 DEBUG MyList:28 - element at index 2 is c
+2020-03-04 10:00::27 INFO  MyList:32 - enter index to access element at that index
+2020-03-04 10:00::31 INFO  MyList:35 - element at index 5 is f
+2020-03-04 10:00::31 INFO  MyList:37 - Enter index of element to remove
+2020-03-04 10:00::34 DEBUG MyList:40 - element removed is c
+2020-03-04 10:00::34 INFO  MyList:48 - contents of list are [a,b,d,e,f,g]
+2020-03-04 10:00::34 INFO  MyList:51 - after removing element at index 2 the list is [a,b,e,f,g]
+2020-03-04 10:00::34 INFO  MyList:53 - size of list is 5
+2020-03-04 10:00::34 INFO  MyList:55 - elements of list are [a,b,e,f,g]
+2020-03-04 10:04::55 DEBUG MyList:25 - the list is [a,b,c,d,e,f,g]
+2020-03-04 10:04::55 DEBUG MyList:28 - element at index 2 is c
+2020-03-04 10:04::55 INFO  MyList:32 - enter index to access element at that index
+2020-03-04 10:04::59 DEBUG MyList:45 - java.lang.IndexOutOfBoundsException: Index: -10, Size -10
+2020-03-04 10:04::59 INFO  MyList:48 - contents of list are [a,b,c,d,e,f,g]
+2020-03-04 10:04::59 INFO  MyList:51 - after removing element at index 2 the list is [a,b,d,e,f,g]
+2020-03-04 10:04::59 INFO  MyList:53 - size of list is 6
+2020-03-04 10:04::59 INFO  MyList:55 - elements of list are [a,b,d,e,f,g]
